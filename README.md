@@ -1,3 +1,6 @@
+TVmaze is a react-app in which we can search tv shows by movie name and also by actor name. when its searched with actor name, click on SHOW MORE option to get all the shows done by actor and click outside the screen to close the details. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
